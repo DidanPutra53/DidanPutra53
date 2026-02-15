@@ -1,15 +1,13 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there,%20I'm%20Didan!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20Enthusiast&descAlignY=51&descAlign=62" />
-</div>
+# Hi there, I'm Didan! 👋
 
-### 👋 About Me
+### 🚀 About Me
 
-Saya adalah pengembang yang antusias dengan teknologi web. Saat ini sedang fokus mendalami **JavaScript** dan membangun proyek-proyek web yang interaktif.
+I am a passionate web developer enthusiast. Currently, I am focused on mastering **JavaScript** and building interactive web projects.
 
 - 🔭 I’m currently working on **web-beras** & **Toko-Blue**
 - 🌱 I’m currently learning **Advanced JavaScript & React**
 - 💬 Ask me about **HTML, CSS, JavaScript**
-- 📫 How to reach me: *[Masukkan Email Kamu Disini]*
+- 📫 How to reach me: *[Insert Your Email Here]*
 
 ---
 
