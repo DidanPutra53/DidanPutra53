@@ -4,27 +4,32 @@ I am a **Frontend Developer Enthusiast** based in **Indonesia** 🇮🇩.
 My passion lies in creating interactive web experiences and mastering modern web technologies.
 
 ---
-## Technical Expertise
+### 💻 Technical Expertise
 
-### Frontend Engineering
-- Next.js
-- React
-- JavaScript (ES6+)
-- Component Architecture
-- State Management
-- Responsive & Adaptive UI
-- TailwindCSS
+<div align="center">
 
-### Backend Integration
-- REST API Integration
-- MongoDB
-- Node.js
+  <h4>Frontend Engineering</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,html,css&theme=dark" />
+    </a>
+  </p>
 
-### DevOps & Environment
-- Git & GitHub
-- Vercel Deployment
-- Cloudflare (CDN & Tunnel)
-- Ubuntu Server
+  <h4>Backend Integration</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
+    </a>
+  </p>
+
+  <h4>DevOps & Environment</h4>
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,ubuntu,linux&theme=dark" />
+    </a>
+  </p>
+  
+</div>
 
 ---
 
