@@ -7,9 +7,7 @@ My passion lies in creating interactive web experiences and mastering modern web
 
 ### 📊 GitHub Activity
 
-[![Didan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DidanPutra53&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/DidanPutra53)
-
-[![Didan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DidanPutra53&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/DidanPutra53)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DidanPutra53&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
