@@ -4,6 +4,29 @@ I am a **Frontend Developer Enthusiast** based in **Indonesia** 🇮🇩.
 My passion lies in creating interactive web experiences and mastering modern web technologies.
 
 ---
+## Technical Expertise
+
+### Frontend Engineering
+- Next.js
+- React
+- JavaScript (ES6+)
+- Component Architecture
+- State Management
+- Responsive & Adaptive UI
+- TailwindCSS
+
+### Backend Integration
+- REST API Integration
+- MongoDB
+- Node.js
+
+### DevOps & Environment
+- Git & GitHub
+- Vercel Deployment
+- Cloudflare (CDN & Tunnel)
+- Ubuntu Server
+
+---
 
 ### 📊 GitHub Activity
 
