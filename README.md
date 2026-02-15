@@ -48,6 +48,5 @@ My passion lies in creating interactive web experiences and mastering modern web
 
 I am open to discussions about web development, collaborations, or just a friendly chat!
 
-- **Email**: [your.email@gmail.com](mailto:your.email@gmail.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com)
-- **Instagram**: [@yourusername](https://instagram.com)
+- **Email**: [didanputra75@gmail.com](mailto:didanputra75@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/didan-putra-pangestu/](https://linkedin.com)
