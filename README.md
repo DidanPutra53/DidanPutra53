@@ -1,30 +1,86 @@
-# Hi there, I'm Didan! 👋
+<h1 align="center">Didan Putra</h1>
+<p align="center">
+Frontend Engineer | Building Scalable & Performant Web Applications
+</p>
 
-I am a **Frontend Developer Enthusiast** based in **Indonesia** 🇮🇩.  
-My passion lies in creating interactive web experiences and mastering modern web technologies.
-
----
-
-### 📌 What I'm Up To
-
-- 🔭 **Current Project**: Developing **Toko-Blue**, a warehouse management system.
-- 🌱 **Learning**: Deepening my knowledge in **React.js** and **Backend Integration**.
-- 💼 **Goal**: Transitioning into a professional Full-stack Developer role.
-- ⚡ **Interest**: Open Source, UI/UX Design, and Web Performance.
-
----
-
-### 🛠️ Technology Stack
-
-**Languages** <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-
-**Tools & Workflow** <img src="https://img.shields.io/badge/VS_Code-0078D7?style=flat&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=flat&logo=tailwindcss&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/Node.js-1E293B?style=flat&logo=node.js&logoColor=83CD29" />
+  <img src="https://img.shields.io/badge/MongoDB-111827?style=flat&logo=mongodb&logoColor=47A248" />
+</p>
 
 ---
 
-### 📫 Let's Connect
+## Professional Summary
 
-I am open to discussions about web development, collaborations, or just a friendly chat!
+Frontend Engineer focused on building scalable, maintainable, and performance-oriented web applications using modern JavaScript ecosystems.
 
-- **Email**: [didanputra75@gmail.com](mailto:didanputra75@gmail.com)
-- **LinkedIn**: [https://www.linkedin.com/in/didan-putra-pangestu/](https://linkedin.com)
+Experienced in structuring reusable component architecture, managing state effectively, and integrating REST APIs into production-ready systems.
+
+---
+
+## Technical Expertise
+
+### Frontend Engineering
+- Next.js
+- React
+- JavaScript (ES6+)
+- Component Architecture
+- State Management
+- Responsive & Adaptive UI
+- TailwindCSS
+
+### Backend Integration
+- REST API Integration
+- MongoDB
+- Node.js
+
+### DevOps & Environment
+- Git & GitHub
+- Vercel Deployment
+- Cloudflare (CDN & Tunnel)
+- Ubuntu Server
+
+---
+
+## Featured Projects
+
+### Web Beras Dashboard
+Fullstack dashboard application for monitoring rice prices with dynamic routing and modular component structure.
+
+**Stack:** Next.js, MongoDB, TailwindCSS  
+**Focus:** Scalable structure, reusable components, API integration
+
+---
+
+### PT Hidrosistem Jaya Mandiri
+Structured company profile website with clean UI implementation and maintainable codebase.
+
+---
+
+### Armada Kemasan
+Responsive business website built with performance-aware layout structure.
+
+---
+
+## Engineering Principles
+
+- Clean & maintainable code
+- Reusable and modular architecture
+- Performance-first mindset
+- Clear separation of concerns
+- Production-ready standards
+
+---
+
+## Contact
+
+Email: your-email@gmail.com  
+Location: Indonesia  
+
+---
+
+_Continuously improving engineering standards and building production-level web applications._
