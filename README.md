@@ -5,6 +5,20 @@ My passion lies in creating interactive web experiences and mastering modern web
 
 ---
 
+### 📊 GitHub Activity
+
+<div align="center">
+  <a href="https://github.com/DidanPutra53">
+    <img src="https://github-readme-stats.vercel.app/api?username=DidanPutra53&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Didan's Stats" />
+  </a>
+  
+  <a href="https://github.com/DidanPutra53">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DidanPutra53&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Didan's Top Langs" />
+  </a>
+</div>
+
+---
+
 ### 📌 What I'm Up To
 
 - 🔭 **Current Project**: Developing **Toko-Blue**, a warehouse management system.
