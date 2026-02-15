@@ -4,32 +4,20 @@ I am a **Frontend Developer Enthusiast** based in **Indonesia** 🇮🇩.
 My passion lies in creating interactive web experiences and mastering modern web technologies.
 
 ---
-### 💻 Technical Expertise
+### 🧠 Technical Expertise
 
-<div align="center">
+**Frontend Engineering**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="15" height="15"/> **Next.js & React** - Component Architecture & State Management
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="15" height="15"/> **JavaScript (ES6+)** - Interactive logic & DOM Manipulation
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="15" height="15"/> **TailwindCSS** - Responsive & Adaptive UI Design
 
-  <h4>Frontend Engineering</h4>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,html,css&theme=dark" />
-    </a>
-  </p>
+**Backend Integration**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="15" height="15"/> **Node.js** - REST API Integration
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="15" height="15"/> **MongoDB** - NoSQL Database Management
 
-  <h4>Backend Integration</h4>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postman&theme=dark" />
-    </a>
-  </p>
-
-  <h4>DevOps & Environment</h4>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,cloudflare,ubuntu,linux&theme=dark" />
-    </a>
-  </p>
-  
-</div>
+**DevOps & Tools**
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="15" height="15"/> **Deployment** - Vercel, Cloudflare (CDN & Tunnel), Ubuntu Server
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="15" height="15"/> **Version Control** - Git & GitHub Workflow
 
 ---
 
